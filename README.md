@@ -12,7 +12,6 @@
 - **`Izuzeci`** - domenski izuzeci sa jasnim porukama
 
 **Životni ciklus zone:** NAPRAVLJENA → OTVORENA → ZATVORENA → UNIŠTENA
----
 
 ## Primer izlaza programa
 STANJE 1 (zona otvorena): Zona-1(1920): 1(480), 2(0), 3(640), 4(320), 5(480)
