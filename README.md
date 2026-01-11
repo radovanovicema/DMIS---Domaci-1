@@ -1,4 +1,4 @@
-# Parking Zona Simulator
+# Parking zona simulator
 
 ## Opis arhitekture
 
